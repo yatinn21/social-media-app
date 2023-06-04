@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "facebook-clone-b97c7": {
+      "hosting": {
+        "facebook": [
+          "facebook-clone-b97c7"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fb-clone-eb0ca"
+  }
+}
